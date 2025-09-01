@@ -20,7 +20,7 @@ Installation
 1. Clone the Repo:
 
 ```bash
-https://github.com/TheOnesided/mini-sys-info.git```
+https://github.com/TheOnesided/mini-sys-info.git
 cd mini-sys-info
 ```
 
