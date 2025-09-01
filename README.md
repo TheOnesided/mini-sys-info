@@ -19,16 +19,22 @@ A lightweight, fast, and elegant Linux command-line tool that displays essential
 Installation
 1. Clone the Repo:
 
-```https://github.com/TheOnesided/mini-sys-info.git```
-```cd mini-sys-info```
+```bash
+https://github.com/TheOnesided/mini-sys-info.git```
+cd mini-sys-info
+```
 
 2. Compile:
 
-```g++ main.cpp -o msyinfo -lncurses```
+```bash
+g++ main.cpp -o msyinfo -lncurses
+```
 
 3. Run:
 
-```./msyinfo```
+```bash
+./msyinfo
+```
 
 ---
 
