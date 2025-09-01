@@ -16,7 +16,7 @@ A lightweight, fast, and elegant Linux command-line tool that displays essential
 - RAM Usage – Visual bar showing current memory usage
 - Disk Usage – Visual bar showing storage usage
 ---
-Installation
+## Installation
 1. Clone the Repo:
 
 ```bash
